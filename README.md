@@ -1,1 +1,1 @@
-# symptemist-multilingual-linking
+# SympTEMIST Multilingual Entity Linking
